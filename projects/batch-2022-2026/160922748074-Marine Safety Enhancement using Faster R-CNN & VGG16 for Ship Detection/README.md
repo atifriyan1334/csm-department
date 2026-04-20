@@ -99,32 +99,3 @@ The project features a fully interactive Desktop GUI (built with Tkinter) that g
 * Minimum 4GB RAM (8GB+ recommended for model training)
 * Python 3.7.x installed globally
 
-### Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/Airborne-Radar-Ship-Detection.git](https://github.com/your-username/Airborne-Radar-Ship-Detection.git)
-   cd Airborne-Radar-Ship-Detection
-2. **Install Required Dependencies:**
-Ensure your pip is up to date, then install the required libraries:
-Bash
-
-pip install tensorflow keras opencv-python numpy pandas matplotlib scikit-learn pillow
-
-3. **Launch the Application:**
-You can start the graphical interface by either double-clicking the provided run.bat file, or by executing the main script from your terminal:
-Bash
-
-python ShipDetection.py
-
-Operating the System:
-
-    Click Upload Airborne Dataset and select the JSON file.
-
-    Click Preprocess Dataset and wait for the confirmation message.
-
-    Train both models sequentially using the respective buttons.
-
-    View the comparative analytics via the Graph buttons.
-
-    Finally, click Ship Detection and select a sample airborne image to see the Faster R-CNN in action.
