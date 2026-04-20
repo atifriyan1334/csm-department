@@ -92,6 +92,18 @@ The project features a fully interactive Desktop GUI (built with Tkinter) that g
 
 ---
 
+| Name | Roll number |
+|----------|---------|
+| Atif Riyan Ahmed | 160922748074 |
+| Ayman Khan | 160922748076 |
+| Fawaz Naseeruddin | 160922748078 |
+
+**Project Guide:** Mr Khaja Pasha, Assistant Professor <br />
+**Branch and Section:** CSM - 4B <br />
+**Institution:** Lords Institute of Engineering and Technology
+
+---
+
 ## 🚀 Installation & Usage Guide
 
 ### Prerequisites
